@@ -1,0 +1,6 @@
+$AWS_ACCES_KEY_ID="blahblahblah"
+$AWS_SECRET_ACCES_KEY="blahblahblah"
+
+
+terraform init
+terraform apply
